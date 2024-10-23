@@ -11,5 +11,4 @@ Python | Linux | Windows | Network Security | Vulnerability management | Authent
 
 Certifications and licenses:
 
-nShield Certified Systems Engineer (nCSE)
-Cybersecurity specialist @ Codecool
+nShield Certified Systems Engineer (nCSE) | Cybersecurity specialist @ Codecool
