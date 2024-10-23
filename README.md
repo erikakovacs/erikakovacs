@@ -9,7 +9,7 @@ Python | Linux | Windows | Network Security | Vulnerability management | Authent
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erika-kovacs-cybersecurity/)
 
-Certifations and licenses:
+Certifications and licenses:
 
 nShield Certified Systems Engineer (nCSE)
 Cybersecurity specialist @ Codecool
