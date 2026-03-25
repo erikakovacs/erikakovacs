@@ -1,14 +1,10 @@
-# 👋 Hi there!
-I'm Erika, as an aspiring **cybersecurity specialist**, I am actively engaged in daily efforts to enhance my skills and knowledge. 🚀
+I work on analytical and research projects involving data analysis and scenario modelling. 
+My projects focus on understanding problems, comparing different approaches, and presenting structured conclusions.
 
-## 👩‍💻 Essential Cybersecurity and Networking Skills
+On this GitHub, I document my projects, analyses, and research work.
 
-Python | Linux | Windows | Network Security | Vulnerability management | Authentication | Encryption | Firewalls and Proxies | IDS/IPS | Security Operations Center | Enterprise Security Systems
+Skills:
+Data Analysis | Research | Scenario Modelling | Comparative Analysis | Python | Report Writing
 
-## 🌍 Find me here
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erika-kovacs-cybersecurity/)
-
-Certifications and licenses:
-
-nShield Certified Systems Engineer (nCSE) | Cybersecurity specialist @ Codecool
+Portfolio: [https://erikakovacs.github.io/]
+LinkedIn: [www.linkedin.com/in/erika-papp-kovacs]
