@@ -6,5 +6,5 @@ On this GitHub, I document my projects, analyses, and research work.
 Skills:
 Data Analysis | Research | Scenario Modelling | Comparative Analysis | Python | Report Writing
 
-Portfolio: [https://erikakovacs.github.io/]
-LinkedIn: [www.linkedin.com/in/erika-papp-kovacs]
+Portfolio: https://erikakovacs.github.io/
+LinkedIn: www.linkedin.com/in/erika-papp-kovacs
